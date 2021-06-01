@@ -1,3 +1,3 @@
-reading books
-singing
-listening to music
+- reading books
+- singing
+- listening to music
